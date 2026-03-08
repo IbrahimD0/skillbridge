@@ -1,0 +1,46 @@
+ALEX CHEN
+San Francisco, CA | alex.chen@email.com | github.com/alexchen
+
+EDUCATION
+Master of Science in Computer Science, Stanford University, 2024
+Bachelor of Science in Computer Science, UC Berkeley, 2022
+
+EXPERIENCE
+
+Software Engineer | CloudScale Inc. | June 2024 - Present
+- Built a real-time data processing pipeline using Python and AWS Lambda that handles 50,000 events per second
+- Reduced API response latency by 40% by implementing Redis caching layer for frequently accessed endpoints
+- Developed RESTful APIs using Node.js and Express serving 2M+ requests daily
+- Collaborated with the ML team to deploy a fraud detection model that reduced false positives by 25%
+
+Software Engineering Intern | TechStartup Co. | Summer 2023
+- Worked on backend systems and helped improve application performance
+- Developed features for the customer dashboard using React and TypeScript
+- Participated in code reviews and agile sprint planning
+- Assisted with database migrations and wrote SQL queries for reporting
+
+Research Assistant | Stanford AI Lab | 2022 - 2024
+- Conducted research on natural language processing for cybersecurity applications
+- Implemented text classification models using Python and PyTorch
+- Published paper on automated phishing detection with 94% accuracy
+- Built data collection pipeline processing 100K+ samples monthly
+
+PROJECTS
+
+PointsGo - Travel Rewards Optimizer | Personal Project
+- Built a full-stack web application using React, Node.js, and PostgreSQL
+- Implemented a recommendation engine that helped users maximize credit card rewards
+- Deployed on AWS EC2 with Docker containers and automated CI/CD pipeline
+- Achieved 500+ active users within first month of launch
+
+CloudWatch Dashboard | Hackathon Project
+- Created a monitoring dashboard for cloud infrastructure metrics
+- Used JavaScript and D3.js for real-time data visualization
+- Integrated with AWS CloudWatch API for metric collection
+
+SKILLS
+Languages: Python, JavaScript, TypeScript, SQL, Java
+Frameworks: React, Node.js, Express, Next.js
+Cloud: AWS (EC2, S3, Lambda, RDS), Docker
+Tools: Git, Linux, CI/CD, Redis, PostgreSQL
+Other: Agile, Code Review, REST APIs
