@@ -117,10 +117,6 @@ The UI is inspired by Duolingo's design language. Job searching is exhausting an
 
 **Known limitations:** Synthetic job data, scoring heuristics are rule-based not ML-trained, no persistence across sessions.
 
-## Video
-
-https://www.youtube.com/watch?v=moSTTW71xMo
-
 ## Project Structure
 
 ```
