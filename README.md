@@ -119,7 +119,7 @@ The UI is inspired by Duolingo's design language. Job searching is exhausting an
 
 ## Video
 
-[Video link to be added]
+https://www.youtube.com/watch?v=moSTTW71xMo
 
 ## Project Structure
 
