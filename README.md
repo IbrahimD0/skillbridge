@@ -6,6 +6,10 @@
 
 **Estimated Time Spent:** ~5 hours
 
+**Live Demo:** https://skillbridge-six-lilac.vercel.app/
+
+**Video Walkthrough:** https://www.youtube.com/watch?v=moSTTW71xMo
+
 ## Why I Chose This Scenario
 
 I'm a new grad. I've submitted resumes and heard nothing back without knowing why. The tools out there either reformat your resume or dump a list of jobs with no connection between the two. I wanted to build the thing I wished I had: paste your resume, see exactly what's weak, get matched to roles you're actually qualified for, and get a plan to close the gaps.
